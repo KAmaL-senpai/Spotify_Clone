@@ -22,3 +22,32 @@ This project is a clone of the Spotify web player, built using HTML and CSS. The
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/spotify-web-player-clone.git
+
+
+Folder structure:
+├── index.html
+├── style.css
+├── assets
+│   ├── logo.png
+│   ├── library_icon.png
+│   ├── card1img.jpeg
+│   ├── card2img.jpeg
+│   ├── card3img.jpeg
+│   ├── card4img.jpeg
+│   ├── card5img.jpeg
+│   ├── card6img.jpeg
+│   ├── backward_icon.png
+│   ├── forward_icon.png
+│   ├── player_icon1.png
+│   ├── player_icon2.png
+│   ├── player_icon3.png
+│   ├── player_icon4.png
+│   ├── player_icon5.png
+│   └── screenshot.png
+
+
+### Notes:
+- Replace `yourusername` with your actual GitHub username in the repository link.
+- If you have a screenshot of the project, save it in the `assets` folder as `screenshot.png` and update the path accordingly.
+- Ensure all images and icons used in the project are placed in the `assets` folder as indicated in the `README.md`.
+
